@@ -2,7 +2,7 @@ const Carta = {
     nome: `Vedita`,
     defesa: 100,
     ataque: 100,
-    slogan: `Morra inseto`,
+    slogan: `Morra inseto 300`,
 }
 
 console.Carta = `nome:$(nome) minha habilidade: $(habilidade)`;

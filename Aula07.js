@@ -1,14 +1,9 @@
-//Objeto no javascript
-
 const Carta = {
-    nome: 'Yamcha',
-    habilidade: 95,
-    defesa: 50,
-    ataque: 89,
-    slogan: 'roga fufu ken',
-};
-
-//console.log(`Meu personagem se chama: ${Carta.nome}`);
+    nome: `Vedita`,
+    defesa: 100,
+    ataque: 100,
+    slogan: `Morra inseto`,
+}
 
 console.Carta = `nome:$(nome) minha habilidade: $(habilidade)`;
 console.log(`Meu personagem se chama: ${Carta.nome}`);

@@ -11,5 +11,5 @@ const investimentoMensal = [
 
 console.log(investimentoMensal);
 
-console.log(`O valor investido no mes de janeiro foi: ${investimentoMensal[5]}`);
+console.log(`O valor investido no mes de janeiro foi: ${investimentoMensal[5]+[3]+[4]}`);
 //Acesso ao indice do elemento array

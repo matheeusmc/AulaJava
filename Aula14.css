@@ -114,3 +114,27 @@ header nav ul li a {
     background-color: aqua;
 
 }
+
+/*Estilo basico para os cards*/
+
+.card {
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+}
+
+.card p {
+    font-size: 14px;
+    color: white;
+}
+
+.card h3 {
+    color: white;
+}
+
+.section-cards {
+    background-color: #b6ddea;
+}
